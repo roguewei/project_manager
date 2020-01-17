@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2079a7"],{a0df:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h2",[n._v(n._s(n.msg))])])},a=[],u={name:"",data:function(){return{msg:"this is Role page"}},methods:{btnClick:function(){}}},c=u,i=e("2877"),l=Object(i["a"])(c,s,a,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d2079a7.ed297a28.js.map
